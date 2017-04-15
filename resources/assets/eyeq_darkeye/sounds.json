@@ -1,0 +1,8 @@
+{
+  "darkeye": {
+    "category": "hostile",
+    "sounds": [
+      "eyeq_darkeye:darkeye"
+    ]
+  }
+}
